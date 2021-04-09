@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#BAC267"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:paddingLeft="50dp"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Essential Nutrition"
+        android:textSize="30sp"
+        />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="75dp"
+            android:src="@drawable/carbohydrates"
+
+            />
+
+        <Button
+            android:id="@+id/carbohydratesid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Carbohydrates"
+            android:textSize="20sp"
+            android:layout_margin="15dp"
+
+            >
+
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/protien"
+
+            />
+
+        <Button
+            android:id="@+id/protienid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Protien"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="65dp"
+            android:src="@drawable/fats"
+
+            />
+
+        <Button
+            android:id="@+id/fatsid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Fats"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="65dp"
+            android:src="@drawable/vitamins"
+
+            />
+        <Button
+            android:id="@+id/vitaminsid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Vitamins"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="65dp"
+            android:src="@drawable/water"
+
+            />
+
+        <Button
+            android:id="@+id/waterid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Water"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161618187636",
+    "project_id": "food-and-nutrition-58484",
+    "storage_bucket": "food-and-nutrition-58484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161618187636:android:7dbfff6d7ce9d4ffd38821",
+        "android_client_info": {
+          "package_name": "com.sharif.foodandnutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161618187636-qhet637pcpk81rb628vg7la8epdlom99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAf2jmDNjOFC21hg2eaDbVaMLdoQ_krbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161618187636-qhet637pcpk81rb628vg7la8epdlom99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

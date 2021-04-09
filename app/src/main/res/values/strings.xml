@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">food and nutrition</string>
+    <string name="carbohydrate_detais">carbohydrates :\n\n1.100 grams rice contains 216.16 cal\n2.100 grams wheat contains 555.84 \ncal3.1 cups corn contains 316.52 cal\n\nWorkes of carbohydrates :\n\nThe two main functions of carbohydrates in the body are to provide energy for all cells and spare the use of protein from the muscles and organs
+Carbs help maintain blood glucose during exercise and restore muscle glycogen during rest and recovery from exercise.
+</string>
+    <string name="protien_details">Protion:\n\nThe recommended daily intake (RDI) for protein is 46 grams for women and 56 grams for men.\n\n1.one Egg -> 78 calories.\n2. Chicken 1kg -> 284 calories.\n3.Milk 1 cup -> 149 calories.\n\nWorkes of Protein :\n\nProtein is an important component of every cell in the body. Your body uses protein to build and repair tissues.</string>
+    <string name="fat_details">Fats:\n\n1.Nuts 100 grams -> 416.88 calories.\n2.Extra Virgin Olive Oil 100 grams -> 108.08 calories.\n3.Dark Chocolate 100 grams -> 329.1036 calories.\n\nWorkes of Fats :\n\nDietary fats are essential to give your body energy and to support cell growth.</string>
+    <string name="vitamin_details">Vitamin:\n\nThere are 13 essential vitamins: A, D, E, and K, which are fat-soluble.\n\\n\n Vitamin A - comes from orange colored fruits and vegetables; dark leafy greens, like kale\n \n Vitamin D - can be found in fortified milk and dairy products; cereals; (and of course, sunshine!)\n\nVitamin E - is found in fortified cereals; leafy green vegetables; seeds; nuts\n\nVitamin K - can be found in dark green leafy vegetables.</string>
+    <string name="water_details">1.Water Protects Your Tissues, Spinal Cord, and Joints\n2.Water Helps Your Body Remove Waste\n3.Water Aids in Digestion\n4.Water Prevents You From Becoming Dehydrated</string>
+</resources>
